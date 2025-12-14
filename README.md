@@ -19,11 +19,9 @@ Before you begin, make sure you have the following installed on your machine:
 ## Installation
 1. Clone this repository to your local machine:
 
-`git clone https://github.com/insa-4ir-chatsystem/chatsystem-hamdan-da-costa-bento.git`
+`git clone https://github.com/Hilalh27/agora.git`
 
 2. Navigate to the project directory:
-
-`cd chatsystem-hamdan-da-costa-bento-main`
    
 `cd project `
 
